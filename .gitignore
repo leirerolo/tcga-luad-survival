@@ -3,3 +3,6 @@ __pycache__/
 *.pyc
 data/*.csv
 .ipynb_checkpoints/
+data/*.json
+data/*.csv
+notebooks/data/
